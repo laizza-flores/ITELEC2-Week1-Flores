@@ -31,7 +31,7 @@ While doing this activity, I learned how to create basic C# programs and use dif
 
 
 * CS1002: I encountered this error when I removed a semicolon from my code. It reminded me that statements in C# need the proper punctuation.
-* CS0103: I got this error when I changed `Console` to `console`. I learned that C# is case-sensitive, so uppercase and lowercase letters matter.
+* CS0103: I got this error when I changed Console to console. I learned that C# is case-sensitive, so uppercase and lowercase letters matter.
 
 
 
@@ -41,5 +41,4 @@ While doing this activity, I learned how to create basic C# programs and use dif
 
 Before running the program, I thought that dividing 250 by 4 would give 62. When I tried it using integer division, the result was 62 with a remainder of 2 because it does not include decimal values. However, when I used double for exact division, the answer became 62.50.
 
-
-
+I also practiced git pull to get updates from GitHub to my local repository.
