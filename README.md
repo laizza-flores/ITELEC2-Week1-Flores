@@ -8,7 +8,7 @@ Section: BSIT 3.5
 
 
 
-\## Programs
+Programs
 
 
 
@@ -18,7 +18,7 @@ Section: BSIT 3.5
 
 
 
-\## What I Learned
+What I Learned
 
 
 
@@ -26,7 +26,7 @@ While doing this activity, I learned how to create basic C# programs and use dif
 
 
 
-\## Compile Errors
+Compile Errors
 
 
 
@@ -35,10 +35,10 @@ While doing this activity, I learned how to create basic C# programs and use dif
 
 
 
-\## My Prediction
+My Prediction
 
 
 
 Before running the program, I thought that dividing 250 by 4 would give 62. When I tried it using integer division, the result was 62 with a remainder of 2 because it does not include decimal values. However, when I used double for exact division, the answer became 62.50.
 
-I also practiced git pull to get updates from GitHub to my local repository.
+
